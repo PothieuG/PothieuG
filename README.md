@@ -7,4 +7,4 @@
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gillespothieu/)
 * ⚡ Fun fact: I once got stuck on a ski lift for 45 minutes as night was falling.
 
-[![Gilles's github stats](https://github-readme-stats.vercel.app/api?username=PothieuG&theme=dark)](https://github.com/PothieuG/github-readme-stats)
+[![Gilles's GitHub stats](https://github-readme-stats.vercel.app/api?username=PothieuG)](https://github.com/PothieuG/github-readme-stats)
