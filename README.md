@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 💬 I'm a software developer with a proficiency in front-end development.
-* 🔭 I work at SSW https://www.ssw.com.a
+* 🔭 I work at SSW https://www.ssw.com.au
 * 👭 Full-time dad of two children, passionate about universe and space.
 * 👯 I’m looking to collaborate to improve SSW Rules www.ssw.com.au/rules  
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gillespothieu/)
